@@ -1,0 +1,152 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.tecnoparty.cf" resolutions="1x" timestamp="1486951573880">
+  <folder name="css">
+    <file name="site_global.css" crc="4216065034"/>
+    <file name="master_a-master.css" crc="286958908" ref="services:index:check-order:packages:order-details:store-details:reservation-confirmation:book-now"/>
+    <file name="nomq_preview_master_a-master.css" crc="3913871183" ref="services:index:check-order:packages:order-details:store-details:reservation-confirmation:book-now"/>
+    <file name="services.css" crc="3942759248" ref="services"/>
+    <file name="nomq_services.css" crc="4249547044" ref="services"/>
+    <file name="index.css" crc="3990609831" ref="index"/>
+    <file name="nomq_index.css" crc="3954339478" ref="index"/>
+    <file name="check-order.css" crc="3769553556" ref="check-order"/>
+    <file name="nomq_check-order.css" crc="3798433761" ref="check-order"/>
+    <file name="packages.css" crc="476656693" ref="packages"/>
+    <file name="nomq_packages.css" crc="531198727" ref="packages"/>
+    <file name="order-details.css" crc="381871097" ref="order-details"/>
+    <file name="nomq_order-details.css" crc="4225589711" ref="order-details"/>
+    <file name="store-details.css" crc="3784904609" ref="store-details"/>
+    <file name="nomq_store-details.css" crc="282251505" ref="store-details"/>
+    <file name="reservation-confirmation.css" crc="3870115883" ref="reservation-confirmation"/>
+    <file name="nomq_reservation-confirmation.css" crc="103949787" ref="reservation-confirmation"/>
+    <file name="book-now.css" crc="4111318097" ref="book-now"/>
+    <file name="nomq_book-now.css" crc="3930872469" ref="book-now"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:services:packages:store-details:book-now:check-order:order-details:reservation-confirmation"/>
+    <file name="museutils.js" crc="4148063285" ref="index:services:packages:store-details:book-now:check-order:order-details:reservation-confirmation"/>
+    <file name="whatinput.js" crc="86476730" ref="index:services:packages:store-details:book-now:check-order:order-details:reservation-confirmation"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:services:packages:store-details:book-now:check-order:order-details:reservation-confirmation"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:services:packages:store-details:book-now:check-order:order-details:reservation-confirmation"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:services:packages:store-details:book-now:check-order:order-details:reservation-confirmation"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:book-now"/>
+    <file name="webpro.js" crc="3986320349" ref="index:services:packages:store-details:book-now:check-order"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index:services"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index:services"/>
+    <file name="touchswipe.js" crc="221459597" ref="index:services"/>
+    <file name="form_check.php" crc="303648844" ref="index"/>
+    <file name="form_throttle.php" crc="236764551" ref="index"/>
+    <file name="form_process.php" crc="4272079531" ref="index"/>
+    <file name="form-u521.php" crc="511122268" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:services:packages:store-details:book-now:check-order:order-details:reservation-confirmation"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index:services:packages:store-details:book-now:check-order:order-details:reservation-confirmation"/>
+    <file name="require.js" crc="4159430777" ref="index:services:packages:store-details:book-now:check-order:order-details:reservation-confirmation"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="packages"/>
+    <file name="form-u1603.php" crc="4204091257" ref="store-details"/>
+    <file name="form-u2464.php" crc="4272106466" ref="book-now"/>
+    <file name="form-u3118.php" crc="4060793935" ref="check-order"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="306747898" ref="index"/>
+    <file name="arrow-down-white.png" crc="65887983" seo="true" ref="index"/>
+    <file name="tecno_logo.png" crc="219948295" seo="true" ref="index"/>
+    <file name="walk.png" crc="245899728" seo="true" ref="index"/>
+    <file name="bike.png" crc="3938620914" seo="true" ref="index"/>
+    <file name="car.png" crc="4106746460" seo="true" ref="index"/>
+    <file name="background of robbie shit.jpg" crc="536056770" ref="index"/>
+    <file name="home page 1230x154.jpg" crc="3914274246" seo="true" ref="index"/>
+    <file name="place2230x154.jpg" crc="133818730" seo="true" ref="index"/>
+    <file name="home page 3230x154.jpg" crc="434445892" seo="true" ref="index"/>
+    <file name="home page 4-crop-u3413.jpg" crc="4024479067" ref="index"/>
+    <file name="home page 1.jpg" crc="4159929913" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:services:packages:store-details:book-now:check-order:order-details:reservation-confirmation"/>
+    <file name="place2.jpg" crc="403344691" seo="true" ref="index"/>
+    <file name="home page 3.jpg" crc="4243881552" seo="true" ref="index"/>
+    <file name="home page 4.jpg" crc="266667954" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:services"/>
+    <file name="buffet230x154.jpg" crc="513679138" seo="true" ref="index"/>
+    <file name="place1230x173.jpg" crc="327596909" seo="true" ref="index"/>
+    <file name="snack bar-crop-u3483.png" crc="65345138" ref="index"/>
+    <file name="home page 2230x154.jpg" crc="4099653332" seo="true" ref="index"/>
+    <file name="buffet.jpg" crc="4171067417" seo="true" ref="index"/>
+    <file name="place1.jpg" crc="239874428" seo="true" ref="index"/>
+    <file name="snack bar.png" crc="479648815" seo="true" ref="index"/>
+    <file name="home page 2.jpg" crc="438044053" seo="true" ref="index"/>
+    <file name="twitter.png" crc="4102706121" ref="index:services:packages:store-details:book-now:check-order:order-details:reservation-confirmation"/>
+    <file name="pinterest.png" crc="4214682508" ref="index:services:packages:store-details:book-now:check-order:order-details:reservation-confirmation"/>
+    <file name="facebook.png" crc="317936629" ref="index:services:packages:store-details:book-now:check-order:order-details:reservation-confirmation"/>
+    <file name="yelp.png" crc="4269174705" ref="index:services:packages:store-details:book-now:check-order:order-details:reservation-confirmation"/>
+    <file name="instagram.png" crc="260457741" ref="index:services:packages:store-details:book-now:check-order:order-details:reservation-confirmation"/>
+    <file name="background of robbie shit-u1067-fr.jpg" crc="292917690" ref="index"/>
+    <file name="home page 4-crop-u34132.jpg" crc="4024479067" ref="index"/>
+    <file name="snack bar-crop-u34832.png" crc="65345138" ref="index"/>
+    <file name="background of robbie shit-u1067-fr2.jpg" crc="267461173" ref="index"/>
+    <file name="home page 4-crop-u37214.jpg" crc="4024479067" ref="index"/>
+    <file name="snack bar-crop-u37247.png" crc="65345138" ref="index"/>
+    <file name="background of robbie shit-u1067-fr3.jpg" crc="157212939" ref="index"/>
+    <file name="home page 4-crop-u372142.jpg" crc="4024479067" ref="index"/>
+    <file name="snack bar-crop-u372472.png" crc="65345138" ref="index"/>
+    <file name="background of robbie shit-u1067-fr4.jpg" crc="4077080529" ref="index"/>
+    <file name="home page 4-crop-u372143.jpg" crc="4024479067" ref="index"/>
+    <file name="snack bar-crop-u372473.png" crc="65345138" ref="index"/>
+    <file name="background of robbie shit-u1067-fr5.jpg" crc="4246154170" ref="index"/>
+    <file name="home page 4-crop-u40674.jpg" crc="4024479067" ref="index"/>
+    <file name="background of robbie shit-u1067-fr6.jpg" crc="4043265054" ref="index"/>
+    <file name="home page 4-crop-u406742.jpg" crc="4024479067" ref="index"/>
+    <file name="background of robbie shit-u1067-fr7.jpg" crc="502153407" ref="index"/>
+    <file name="background of robbie shit-u1067-fr8.jpg" crc="4178337520" ref="index"/>
+    <file name="kids korner 13.jpg" crc="115088606" seo="true" ref="services"/>
+    <file name="kids korner-crop-u3819.jpg" crc="3829917701" ref="services"/>
+    <file name="kidskorner-crop-u3828.jpg" crc="4062172001" ref="services"/>
+    <file name="teen territory 2-crop-u3578.jpg" crc="4009697146" ref="services"/>
+    <file name="teen territory arcade-crop-u3749.jpg" crc="424157564" ref="services"/>
+    <file name="teen territory.jpg" crc="3764824620" seo="true" ref="services"/>
+    <file name="adult area 1.jpg" crc="3829561737" seo="true" ref="services"/>
+    <file name="adult area 2.jpg" crc="109557011" seo="true" ref="services"/>
+    <file name="adult area.jpg" crc="351767268" seo="true" ref="services"/>
+    <file name="dance2.jpg" crc="3853566116" seo="true" ref="services"/>
+    <file name="dancing.jpg" crc="4277628729" seo="true" ref="services"/>
+    <file name="karaoke.jpg" crc="3813394150" seo="true" ref="services"/>
+    <file name="power points.png" crc="4207328173" seo="true" ref="services"/>
+    <file name="kids korner-crop-u38192.jpg" crc="3829917701" ref="services"/>
+    <file name="kidskorner-crop-u38282.jpg" crc="4062172001" ref="services"/>
+    <file name="teen territory 2-crop-u35782.jpg" crc="4009697146" ref="services"/>
+    <file name="teen territory arcade-crop-u37492.jpg" crc="424157564" ref="services"/>
+    <file name="kids korner-crop-u38193.jpg" crc="3829917701" ref="services"/>
+    <file name="kidskorner-crop-u38283.jpg" crc="4062172001" ref="services"/>
+    <file name="teen territory 2-crop-u35783.jpg" crc="4009697146" ref="services"/>
+    <file name="teen territory arcade-crop-u37493.jpg" crc="424157564" ref="services"/>
+    <file name="kids korner-crop-u38194.jpg" crc="3829917701" ref="services"/>
+    <file name="kidskorner-crop-u38284.jpg" crc="4062172001" ref="services"/>
+    <file name="teen territory 2-crop-u35784.jpg" crc="4009697146" ref="services"/>
+    <file name="teen territory arcade-crop-u37494.jpg" crc="424157564" ref="services"/>
+    <file name="kids korner-crop-u38195.jpg" crc="3829917701" ref="services"/>
+    <file name="kidskorner-crop-u38285.jpg" crc="4062172001" ref="services"/>
+    <file name="teen territory 2-crop-u35785.jpg" crc="4009697146" ref="services"/>
+    <file name="teen territory arcade-crop-u37495.jpg" crc="424157564" ref="services"/>
+    <file name="kids korner-crop-u38196.jpg" crc="3829917701" ref="services"/>
+    <file name="kidskorner-crop-u38286.jpg" crc="4062172001" ref="services"/>
+    <file name="teen territory 2-crop-u35786.jpg" crc="4009697146" ref="services"/>
+    <file name="teen territory arcade-crop-u37496.jpg" crc="424157564" ref="services"/>
+    <file name="kids korner-crop-u38197.jpg" crc="3829917701" ref="services"/>
+    <file name="kidskorner-crop-u38287.jpg" crc="4062172001" ref="services"/>
+    <file name="teen territory 2-crop-u35787.jpg" crc="4009697146" ref="services"/>
+    <file name="teen territory arcade-crop-u37497.jpg" crc="424157564" ref="services"/>
+    <file name="check.png" crc="46911136" seo="true" ref="packages"/>
+    <file name="plane.png" crc="3952493280" seo="true" ref="packages"/>
+    <file name="packages car.png" crc="204422852" seo="true" ref="packages"/>
+    <file name="walk2.png" crc="245899728" seo="true" ref="packages"/>
+    <file name="radiobuttonunchecked.png" crc="232010369" ref="book-now"/>
+    <file name="radiobuttonuncheckedrollover.png" crc="173297973" ref="book-now"/>
+    <file name="radiobuttonuncheckedmousedown.png" crc="210422217" ref="book-now"/>
+    <file name="radiobuttonchecked.png" crc="424951658" ref="book-now"/>
+    <file name="radiobuttoncheckedrollover.png" crc="135556972" ref="book-now"/>
+    <file name="radiobuttoncheckedmousedown.png" crc="475385202" ref="book-now"/>
+  </folder>
+  <file name="index.html" crc="341118660" seo="true" mt="1486951419635" redirect="true"/>
+  <file name="services.html" crc="3985063960" seo="true" mt="1486939810960" redirect="true"/>
+  <file name="packages.html" crc="521204421" seo="true" mt="1486950063325" redirect="true"/>
+  <file name="store-details.html" crc="333946752" seo="true" mt="1486950094279" redirect="true"/>
+  <file name="book-now.html" crc="130548514" seo="true" mt="1486939900703" redirect="true"/>
+  <file name="check-order.html" crc="3925338769" seo="true" mt="1486939810960" redirect="true"/>
+  <file name="order-details.html" crc="3766674573" seo="true" mt="1486939810960" redirect="true"/>
+  <file name="reservation-confirmation.html" crc="3833629785" seo="true" mt="1486939810960" redirect="true"/>
+</manifest>
